@@ -33,4 +33,5 @@ To run test
 
 ```
 python -m unittest tests/board_validator_test.py
+python -m unittest tests/fboard_test.py
 ```
