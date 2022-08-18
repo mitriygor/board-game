@@ -287,7 +287,6 @@ dist
 
 .DS_Store
 google-auth.json
-config/
 recordings/
 
 # NVM auto switch
